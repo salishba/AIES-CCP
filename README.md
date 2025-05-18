@@ -1,4 +1,13 @@
 # AI enhanced Zaproxy
+
+Alishba Liaquat   CR-019
+Syeda Wassama Ali CR-015
+Uzma Haneef CR-020
+Sarah Zafar CR-025
+
+Course Title - AI & Expert System
+Course Code - CT-361
+
 My attemp at AI enhanced zaproxy tool for non technical user to understand zaproxy output. Also maps cwe's with CVEs and provides mitigation technique
 
 youtube
